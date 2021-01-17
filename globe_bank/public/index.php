@@ -1,8 +1,8 @@
 <!doctype html>
 
-<html lang="en">
+<html lang="ko">
   <head>
-    <title>Globe Bank</title>
+    <title>글로버 뱅크</title>
     <meta charset="utf-8">
   </head>
 
